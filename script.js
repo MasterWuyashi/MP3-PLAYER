@@ -125,72 +125,72 @@ singer: "Dino Merlin"
                                                         
                                                         },
      {
-                                                        name: "M1",
-                                                        path: "music/EX-YU mix za dobro raspoloženje Muzički tramvaj (mp3cut.net)(3).mp3",
-                                                        img: "img/Ex yu.png",
+                                                        name: "Ex yu mix #1",
+                                                        path: "music/M1.mp3",
+                                                        img: "img/Ex y.jpg",
                                                         singer: "Ex Yu mix"
                                                         
                                                         },
      {
-                                                        name: "M2",
-                                                        path: "music/EX-YU mix za dobro raspoloženje Muzički tramvaj (mp3cut.net)(3).mp3",
-                                                        img: "img/Ex yu.png",
+                                                        name: "Ex yu mix #2",
+                                                        path: "music/M2.mp3",
+                                                        img: "img/Ex y.jpg",
                                                         singer: "Ex Yu mix"
                                                         
                                                         },
      {
-                                                        name: "M3",
-                                                        path: "music/EX-YU mix za dobro raspoloženje Muzički tramvaj (mp3cut.net)(3).mp3",
-                                                        img: "img/Ex yu.png",
+                                                        name: "Ex yu mix #3",
+                                                        path: "music/M3.mp3",
+                                                        img: "img/Ex y.jpg",
                                                         singer: "Ex Yu mix"
                                                         
                                                         },
      {
-                                                        name: "M4",
-                                                        path: "music/EX-YU mix za dobro raspoloženje Muzički tramvaj (mp3cut.net)(3).mp3",
-                                                        img: "img/Ex yu.png",
+                                                        name: "Ex yu mix #4",
+                                                        path: "music/M4.mp3",
+                                                        img: "img/Ex y.jpg",
                                                         singer: "Ex Yu mix"
                                                         
                                                         },
      {
                                                         name: "M5",
-                                                        path: "music/EX-YU mix za dobro raspoloženje Muzički tramvaj (mp3cut.net)(3).mp3",
-                                                        img: "img/Ex yu.png",
+                                                        path: "music/M5.mp3",
+                                                        img: "img/Ex y.jpg",
                                                         singer: "Ex Yu mix"
                                                         
                                                         },
      {
                                                         name: "M6",
-                                                        path: "music/EX-YU mix za dobro raspoloženje Muzički tramvaj (mp3cut.net)(3).mp3",
-                                                        img: "img/Ex yu.png",
+                                                        path: "music/M6.mp3",
+                                                        img: "img/Ex y.jpg",
                                                         singer: "Ex Yu mix"
                                                         
                                                         },
      {
                                                         name: "M7",
-                                                        path: "music/EX-YU mix za dobro raspoloženje Muzički tramvaj (mp3cut.net)(3).mp3",
-                                                        img: "img/Ex yu.png",
+                                                        path: "music/M7.mp3",
+                                                        img: "img/Ex y.jpg",
                                                         singer: "Ex Yu mix"
                                                         
                                                         },
      {
                                                         name: "M8",
-                                                        path: "music/EX-YU mix za dobro raspoloženje Muzički tramvaj (mp3cut.net)(3).mp3",
-                                                        img: "img/Ex yu.png",
+                                                        path: "music/M8.mp3",
+                                                        img: "img/Ex y.jpg",
                                                         singer: "Ex Yu mix"
                                                         
                                                         },
      {
                                                         name: "M9",
-                                                        path: "music/EX-YU mix za dobro raspoloženje Muzički tramvaj (mp3cut.net)(3).mp3",
-                                                        img: "img/Ex yu.png",
+                                                        path: "music/M9.mp3",
+                                                        img: "img/Ex y.jpg",
                                                         singer: "Ex Yu mix"
                                                         
                                                         },
      {
                                                         name: "M10",
-                                                        path: "music/EX-YU mix za dobro raspoloženje Muzički tramvaj (mp3cut.net)(3).mp3",
-                                                        img: "img/Ex yu.png",
+                                                        path: "music/M10.mp3",
+                                                        img: "img/Ex y.jpg",
                                                         singer: "Ex Yu mix"
                                                         
                                                         },
