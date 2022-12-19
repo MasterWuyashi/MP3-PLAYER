@@ -36,7 +36,7 @@ singer: "Dino Merlin"
         name: "Tugo Nesrećo",
         path: "music/Y2Mate.is - Tugo Nesrećo-qD8MR5U5bvQ-160k-1655873880371.mp3",
         img: "img/crvena jabuka.jpg",
-        singer: "Dino Merlin"
+        singer: "Crvena jabuka"
         
         },
         {
