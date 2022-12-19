@@ -162,6 +162,7 @@ justify-content: center;
 }
 
 .right #artist{
+margin-bottom: 3vw;
     margin-top: 3vw;
     position: absolute;
 top: 10.1vw;
